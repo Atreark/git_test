@@ -1,0 +1,1 @@
+This is Druidsmith's first git project!
